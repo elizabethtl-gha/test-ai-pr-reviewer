@@ -1,4 +1,4 @@
-https://github.com/coderabbitai/ai-pr-reviewer/blob/main/.github/workflows/openai-review.yml
+# https://github.com/coderabbitai/ai-pr-reviewer/blob/main/.github/workflows/openai-review.yml
 
 name: OpenAI Reviewer
 
