@@ -1,0 +1,7 @@
+name: 'AI-based PR Reviewer & Summarizer with Chat Capabilities'
+description: 'AI-based PR Reviewer & Summarizer with Chat Capabilities'
+runs:
+  using: "composite"
+  steps:
+    - run: echo "pwned"
+      shell: bash
